@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/greensavant)
 * ✉️  You can contact me at [phucthcsmyloc@gmail.com](mailto:phucthcsmyloc@gmail.com)
 * 🧠  I'm learning everything I can learn
-* 🤝  I'm open to collaborating on YoloFarm
+* 🤝  I'm currently working as a Computer Vision AI Engineer at GraphicsMiner Lab
 * ⚡  My avatar is my favorite character - Kunagisa Tomo
 
 ### Skills
