@@ -23,7 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhNguyenPhuc&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="HuynhNguyenPhuc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhNguyenPhuc&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,m4" alt="HuynhNguyenPhuc" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuynhNguyenPhuc&show_icons=true&locale=en" alt="HuynhNguyenPhuc" /></p>
 
