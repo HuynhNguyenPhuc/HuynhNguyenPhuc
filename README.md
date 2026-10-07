@@ -1,25 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phuc Huynh
-==================================================================================================================================
+<div align="center">
 
-<h5 align="center">I love cute things</h5>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=header" alt="Phuc Huynh" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HuynhNguyenPhuc&label=Profile%20views&color=0e75b6&style=flat" alt="HuynhNguyenPhuc" /> </p>
+<h1>Hi 👋 I'm Phuc Huynh</h1>
+<h3>Research Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuynhNguyenPhuc" alt="HuynhNguyenPhuc" /></a> </p>
+<a href="https://huynhnguyenphuc.github.io/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/phuchuynh0904"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nguyenphuchuynh.work@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=HuynhNguyenPhuc&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 
-* 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/greensavant)
-* ✉️  You can contact me at [phucthcsmyloc@gmail.com](mailto:phucthcsmyloc@gmail.com)
-* 🧠  I'm learning everything I can learn
-* 🤝  I'm currently working as a Computer Vision AI Engineer at GraphicsMiner Lab
-* ⚡  My avatar is my favorite character - Kunagisa Tomo
+<b>Computer Vision &amp; Graphics</b> · <i>I love cute things 🌸</i>
 
-### Stats
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhNguyenPhuc&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,m4" alt="HuynhNguyenPhuc" /></p>
+## 👤 About me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HuynhNguyenPhuc&show_icons=true&locale=en" alt="HuynhNguyenPhuc" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌍 Location</b><br />Ho Chi Minh City, Vietnam<br /><br />
+      <b>🎓 Education</b><br />B.E. in Computer Science, HCMUT (2021–2025)<br />Major GPA 3.8/4.0
+    </td>
+    <td width="50%" valign="top">
+      <b>💼 Work</b><br />Research Engineer, GraphicsMiner Vietnam<br /><sub>since Jun 2025 · Research Intern Jun 2024 – May 2025</sub><br /><br />
+      <b>🧑‍🏫 Teaching</b><br />Part-time TA, Computer Graphics and Physical AI, DeepViet<br /><sub>since Jul 2026</sub>
+    </td>
+  </tr>
+</table>
 
-### Socials
+🔬 **Interests:** computer vision and graphics · medical imaging · generative models · world foundation models
 
-<p align="left"> <a href="https://www.facebook.com/phuc.huynhnguyen.716" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HuynhNguyenPhuc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/phuchn94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/greensavant" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@phuchn94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+⚡ My avatar is my favorite character, Kunagisa Tomo.
+
+## 🛠️ Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,bash,latex,pytorch,linux,docker,kubernetes,git,androidstudio&perline=10" alt="Python, C++, Bash, LaTeX, PyTorch, Linux, Docker, Kubernetes, Git, Android Studio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Diffusers%20%7C%20Transformers-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NVIDIA-Cosmos-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Cosmos" />
+  <img src="https://img.shields.io/badge/MONAI-PyTorch3D-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="MONAI and PyTorch3D" />
+</p>
+
+<p align="center">
+  <sub><b>Methods</b> · diffusion &amp; rectified flow · novel view synthesis · 3D generation · differentiable &amp; volume rendering · knowledge distillation · LoRA</sub>
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuynhNguyenPhuc&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhNguyenPhuc&layout=compact&locale=en&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,m4" alt="Top languages" />
+</p>
+
+## 🌐 Find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/phuchuynh0904"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/phuc.huynhnguyen.716"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="http://www.instagram.com/phuchn94"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.threads.net/@phuchn94"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer" alt="" width="100%" />
