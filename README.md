@@ -29,8 +29,6 @@
   </tr>
 </table>
 
-🔬 **Interests:** computer vision and graphics · medical imaging · generative models · world foundation models
-
 ⚡ My avatar is my favorite character, Kunagisa Tomo.
 
 ## 🛠️ Tech
@@ -42,12 +40,44 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hugging%20Face-Diffusers%20%7C%20Transformers-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/NVIDIA-Cosmos-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Cosmos" />
-  <img src="https://img.shields.io/badge/MONAI-PyTorch3D-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="MONAI and PyTorch3D" />
+  <img src="https://img.shields.io/badge/PyTorch3D-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch3D" />
+  <a href="https://monai.io/"><img src="assets/monai.png" height="28" alt="MONAI" align="center" /></a>
 </p>
 
-<p align="center">
-  <sub><b>Methods</b> · diffusion &amp; rectified flow · novel view synthesis · 3D generation · differentiable &amp; volume rendering · knowledge distillation · LoRA</sub>
-</p>
+## 🔬 Research interests
+
+<p align="center"><sub>Computer vision and graphics · medical imaging · generative models · world foundation models</sub></p>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/diffusion-rectified-flow.svg" alt="Diffusion and rectified flow" /><br />
+      <b>Diffusion &amp; rectified flow</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/novel-view-synthesis.svg" alt="Novel view synthesis" /><br />
+      <b>Novel view synthesis</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/3d-generation.svg" alt="3D generation" /><br />
+      <b>3D generation</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/differentiable-volume-rendering.svg" alt="Differentiable and volume rendering" /><br />
+      <b>Differentiable &amp; volume rendering</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/knowledge-distillation.svg" alt="Knowledge distillation" /><br />
+      <b>Knowledge distillation</b>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/lora.svg" alt="LoRA" /><br />
+      <b>LoRA</b>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub stats
 
