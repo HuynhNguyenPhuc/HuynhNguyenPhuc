@@ -68,18 +68,6 @@
   </tr>
 </table>
 
-## 🧪 Methods
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Diffusion-0ea5e9?style=flat-square" alt="Diffusion" />
-  <img src="https://img.shields.io/badge/Rectified%20Flow-0ea5e9?style=flat-square" alt="Rectified Flow" />
-  <img src="https://img.shields.io/badge/Novel%20View%20Synthesis-0ea5e9?style=flat-square" alt="Novel View Synthesis" />
-  <img src="https://img.shields.io/badge/3D%20Generation-0ea5e9?style=flat-square" alt="3D Generation" />
-  <img src="https://img.shields.io/badge/Differentiable%20%26%20Volume%20Rendering-0ea5e9?style=flat-square" alt="Differentiable & Volume Rendering" />
-  <img src="https://img.shields.io/badge/Knowledge%20Distillation-0ea5e9?style=flat-square" alt="Knowledge Distillation" />
-  <img src="https://img.shields.io/badge/LoRA-0ea5e9?style=flat-square" alt="LoRA" />
-</p>
-
 ## 📊 GitHub stats
 
 <p align="center">
