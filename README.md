@@ -41,7 +41,10 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-Diffusers%20%7C%20Transformers-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/NVIDIA-Cosmos-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Cosmos" />
   <img src="https://img.shields.io/badge/PyTorch3D-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch3D" />
-  <a href="https://monai.io/"><img src="assets/monai.png" height="28" alt="MONAI" align="center" /></a>
+</p>
+
+<p align="center">
+  <a href="https://monai.io/"><img src="assets/monai.png" height="44" alt="MONAI" /></a>
 </p>
 
 ## 🔬 Research interests
@@ -50,31 +53,33 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/diffusion-rectified-flow.svg" alt="Diffusion and rectified flow" /><br />
-      <b>Diffusion &amp; rectified flow</b>
+    <td width="50%" valign="top">
+      <b>🌍 Location</b><br />Ho Chi Minh City, Vietnam<br /><br />
+      <b>🎓 Education</b><br />B.E. in Computer Science, HCMUT (2021–2025)<br />Major GPA 3.8/4.0
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/novel-view-synthesis.svg" alt="Novel view synthesis" /><br />
-      <b>Novel view synthesis</b>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/3d-generation.svg" alt="3D generation" /><br />
-      <b>3D generation</b>
+    <td width="50%" valign="top">
+      <b>💼 Work</b><br />Research Engineer, GraphicsMiner Vietnam<br /><sub>since Jun 2025 · Research Intern Jun 2024 – May 2025</sub><br /><br />
+      <b>🧑‍🏫 Teaching</b><br />Part-time TA, Computer Graphics and Physical AI, DeepViet<br /><sub>since Jul 2026</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
+      <img src="assets/diffusion-rectified-flow.svg" alt="Diffusion and rectified flow" /><br />
+      <b>Diffusion &amp; rectified flow</b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/novel-view-synthesis.svg" alt="Novel view synthesis" /><br />
+      <b>Novel view synthesis</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/3d-generation.svg" alt="3D generation" /><br />
+      <b>3D generation</b>
+    </td>
+    <td width="50%" align="center" valign="top">
       <img src="assets/differentiable-volume-rendering.svg" alt="Differentiable and volume rendering" /><br />
       <b>Differentiable &amp; volume rendering</b>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/knowledge-distillation.svg" alt="Knowledge distillation" /><br />
-      <b>Knowledge distillation</b>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/lora.svg" alt="LoRA" /><br />
-      <b>LoRA</b>
     </td>
   </tr>
 </table>
