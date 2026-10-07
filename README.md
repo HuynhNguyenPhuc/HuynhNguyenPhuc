@@ -49,40 +49,36 @@
 
 ## 🔬 Research interests
 
-<p align="center"><sub>Computer vision and graphics · medical imaging · generative models · world foundation models</sub></p>
-
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/diffusion-rectified-flow.svg" alt="Diffusion and rectified flow" /><br />
-      <b>Diffusion &amp; rectified flow</b>
+      <img src="assets/computer-vision-graphics.svg" alt="Computer Vision and Graphics" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/novel-view-synthesis.svg" alt="Novel view synthesis" /><br />
-      <b>Novel view synthesis</b>
+      <img src="assets/medical-imaging.svg" alt="Medical Imaging" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/3d-generation.svg" alt="3D generation" /><br />
-      <b>3D generation</b>
+      <img src="assets/generative-models.svg" alt="Generative Models" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/differentiable-volume-rendering.svg" alt="Differentiable and volume rendering" /><br />
-      <b>Differentiable &amp; volume rendering</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/knowledge-distillation.svg" alt="Knowledge distillation" /><br />
-      <b>Knowledge distillation</b>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/lora.svg" alt="LoRA" /><br />
-      <b>LoRA</b>
+      <img src="assets/world-foundation-models.svg" alt="World Foundation Models" />
     </td>
   </tr>
 </table>
+
+## 🧪 Methods
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Diffusion-0ea5e9?style=flat-square" alt="Diffusion" />
+  <img src="https://img.shields.io/badge/Rectified%20Flow-0ea5e9?style=flat-square" alt="Rectified Flow" />
+  <img src="https://img.shields.io/badge/Novel%20View%20Synthesis-0ea5e9?style=flat-square" alt="Novel View Synthesis" />
+  <img src="https://img.shields.io/badge/3D%20Generation-0ea5e9?style=flat-square" alt="3D Generation" />
+  <img src="https://img.shields.io/badge/Differentiable%20%26%20Volume%20Rendering-0ea5e9?style=flat-square" alt="Differentiable & Volume Rendering" />
+  <img src="https://img.shields.io/badge/Knowledge%20Distillation-0ea5e9?style=flat-square" alt="Knowledge Distillation" />
+  <img src="https://img.shields.io/badge/LoRA-0ea5e9?style=flat-square" alt="LoRA" />
+</p>
 
 ## 📊 GitHub stats
 
