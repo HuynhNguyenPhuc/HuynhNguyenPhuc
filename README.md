@@ -53,16 +53,6 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b>🌍 Location</b><br />Ho Chi Minh City, Vietnam<br /><br />
-      <b>🎓 Education</b><br />B.E. in Computer Science, HCMUT (2021–2025)<br />Major GPA 3.8/4.0
-    </td>
-    <td width="50%" valign="top">
-      <b>💼 Work</b><br />Research Engineer, GraphicsMiner Vietnam<br /><sub>since Jun 2025 · Research Intern Jun 2024 – May 2025</sub><br /><br />
-      <b>🧑‍🏫 Teaching</b><br />Part-time TA, Computer Graphics and Physical AI, DeepViet<br /><sub>since Jul 2026</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <img src="assets/diffusion-rectified-flow.svg" alt="Diffusion and rectified flow" /><br />
       <b>Diffusion &amp; rectified flow</b>
@@ -80,6 +70,16 @@
     <td width="50%" align="center" valign="top">
       <img src="assets/differentiable-volume-rendering.svg" alt="Differentiable and volume rendering" /><br />
       <b>Differentiable &amp; volume rendering</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/knowledge-distillation.svg" alt="Knowledge distillation" /><br />
+      <b>Knowledge distillation</b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/lora.svg" alt="LoRA" /><br />
+      <b>LoRA</b>
     </td>
   </tr>
 </table>
